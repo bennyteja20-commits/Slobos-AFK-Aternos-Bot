@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "benskui.aternos.me
-",
+    "ip": "benskui.aternos.me",
     "port": 54516,
     "version": "",
     "try-creative": false
